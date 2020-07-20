@@ -1,0 +1,37 @@
+Day 1 Assignment
+
+1] What is our understanding of the Block Chain?
+•	A mix of technology i.e. Distributed Database and Cryptography where information is verifiable, unchangeable, tamper-proof and immutable.
+•	Making a copy of same document at different places is known as Distributed Data Base.
+•	Converting the whole data in digital Signature is known as Cryptography.
+•	Block Chain is all about huge amount of data storing in different places.
+
+2] What is the core problem block chain trying to solve?
+•	It try to solve authenticity problems, security and need of powerful third party for trust.
+
+3] What are few features that Block Chain gives you?
+•	Features are : 
+i.	Verifiable
+ii.	Unchangeable
+iii.	Tamper-proof
+iv.	Immutable.
+
+4] What all things does a Block Chain contains?
+•	A Block contains :
+i.	Block Number
+ii.	Transaction record
+iii.	Previous Block Signature
+iv.	Mining Key
+
+5] How is the verifiability of block chain is been attained?
+•	Lets take an example, all of us has to complete the assignment and questions are uploaded on LetsUpgrade community. 
+That assignment we have to download and store in our laptops. 
+Then we will create a new digital signature of that document like Pervious fingerprint + Data = Current Fingerprint.
+ Then send the current fingerprint to community to check everyone is having same fingerprint or not.
+ If any of the person does not match the fingerprint then that person need to replace the data with others. 
+•	This is how the verifiability attained.
+
+
+
+
+
